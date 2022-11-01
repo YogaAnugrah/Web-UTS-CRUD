@@ -1,0 +1,56 @@
+*{
+	/*cursor: pointer;*/
+	font-family: poppins;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	font-family: calibri;
+}
+
+
+/*Awal NAV*/
+
+nav {
+	background-color: grey; 
+	padding-top: 14px;
+	padding-bottom: 3px;
+}
+nav ul li {
+	display: inline;
+	margin-right: 10px;
+}
+
+nav ul li a:hover {
+	border-bottom: 2px solid #ccc;
+	text-decoration: none;
+	color: #fff;
+}
+
+ul li a {
+	text-decoration: none;
+	color: #fff;
+	padding: 0px 12px;
+	margin-top: 10px;
+}
+
+.logo-admin {
+	width: 25px;
+	height: 25px;
+	margin-top: -4px;
+}
+
+.paksa-kiri {
+	float: left;
+}
+
+/*Akhir NAV*/
+
+/*Tombol Tmbah*/
+.jarak-atas{
+	margin-top: 40px !important;
+}
+/*Akhir Tombol Tambah*/
+
